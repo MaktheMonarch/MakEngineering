@@ -2,4 +2,5 @@ git init
 git status
 git add
 git commit -m "..."
-git 
+git add origin "location"
+git push -u origin master
